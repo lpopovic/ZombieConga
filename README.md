@@ -13,6 +13,11 @@ The zombie follow your touches around the screen.
 
 ## Preview
 
+### Images
+<img src="" width="480"/> 
+
+### GIF
+<img src="" width="480"/>
 
 ## Build and Runtime Requirements
 + Xcode 9.0 or later
