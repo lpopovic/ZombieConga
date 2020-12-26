@@ -14,10 +14,11 @@ The zombie follow your touches around the screen.
 ## Preview
 
 ### Images
-<img src="" width="480"/> 
+<img src="https://github.com/lpopovic/ZombieConga/blob/master/Preview/IMAGE_PREVIEW_01.png" width="480"/> 
+<img src="https://github.com/lpopovic/ZombieConga/blob/master/Preview/IMAGE_PREVIEW_02.png" width="480"/> 
 
 ### GIF
-<img src="" width="480"/>
+<img src="https://github.com/lpopovic/ZombieConga/blob/master/Preview/GIF_PREVIEW_01.gif" width="480"/> 
 
 ## Build and Runtime Requirements
 + Xcode 9.0 or later
